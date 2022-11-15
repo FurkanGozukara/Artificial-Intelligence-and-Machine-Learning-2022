@@ -1,0 +1,66 @@
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.exe
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.deps.json
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.pdb
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.csproj.CopyComplete
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.pdb
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.MachineLearning.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Math.Core.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Math.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Statistics.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Genetic.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Neuro.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.exe
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.deps.json
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\lecture 6 perceptron example.pdb
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Genetic.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.MachineLearning.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Math.Core.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Math.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Neuro.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Accord.Statistics.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.csproj.AssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.csproj.CopyComplete
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.pdb
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\obj\Debug\netcoreapp3.1\lecture 6 perceptron example.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\MLModel1.zip
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 6 perceptron example\lecture 6 perceptron example\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
