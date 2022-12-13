@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lecture 8 tokenization", "lecture 8 tokenization\lecture 8 tokenization.pyproj", "{7C7758DB-08D4-40F0-B594-EB72635AB724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7758DB-08D4-40F0-B594-EB72635AB724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7758DB-08D4-40F0-B594-EB72635AB724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D7A3505-2311-4BA9-A7F0-DA9DC3D2DF18}
+	EndGlobalSection
+EndGlobal

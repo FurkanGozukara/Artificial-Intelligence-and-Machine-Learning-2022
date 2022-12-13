@@ -1,0 +1,15 @@
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\bin\Debug\net6.0\lecture 8 td-idf.exe
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\bin\Debug\net6.0\lecture 8 td-idf.deps.json
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\bin\Debug\net6.0\lecture 8 td-idf.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\bin\Debug\net6.0\lecture 8 td-idf.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\bin\Debug\net6.0\lecture 8 td-idf.pdb
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\lecture 8 td-idf.csproj.AssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\lecture 8 td-idf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\lecture 8 td-idf.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\lecture 8 td-idf.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\lecture 8 td-idf.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\lecture 8 td-idf.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\refint\lecture 8 td-idf.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\lecture 8 td-idf.pdb
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\lecture 8 td-idf.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419 2022-2023\lecture 8 td-idf\lecture 8 td-idf\obj\Debug\net6.0\ref\lecture 8 td-idf.dll
